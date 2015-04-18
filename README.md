@@ -7,4 +7,17 @@ Este libro reúne un conjunto de experiencias de aplicación de métodos ágiles
 El algunas convenciones para una sana convivencia:
 
 * Escribir usando sintaxis Markdown
-* Cada caso es un capítulo
+* Cada caso es un capítulo aparte
+* Cada caso/capítulo consiste en un único archivo nombrado se acuerdo a la siguiente convención: _<número_de_capítulo>-<nombre_descriptivo>.md_
+* El número se capítulo se asigna en orden de llegada
+
+Cada capítulo debería respetar la siguiente estructura:
+
+* Título
+* Tag
+* Contexto
+* Desafío
+* Solución
+* Conclusión
+
+A menos que tengas consentimiento explícito, no hagas referencia a nombres de empresas y/o personas.
