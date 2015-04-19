@@ -1,7 +1,7 @@
 XP para Dinosaurios
 ======
 
-Por Martín Salías (@MartinSalias)
+Por Martín Salías, @MartinSalias
 
 
 Tags:
