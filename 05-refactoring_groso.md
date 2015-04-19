@@ -1,6 +1,6 @@
 Refactoring groso 
 ===
-(por Carlos Peix)
+Por Carlos Peix, @carlospeix
 
 Tags
 ===
