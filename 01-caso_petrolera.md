@@ -1,7 +1,7 @@
 Una caso de agile en industria petrolera
 ======
 
-Por Nicolás Paez (@inicopaez)
+Por Nicolás Paez, @inicopaez
 
 Tags
 ----

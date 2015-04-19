@@ -1,9 +1,11 @@
 XP para Dinosaurios
 ======
 
-Tags:
----
+Por Martín Salías, @martinsalias
 
+Tags
+---
+xp
 
 Contexto
 ---
