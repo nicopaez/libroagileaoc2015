@@ -1,4 +1,4 @@
-Scrum y Kanban en el espacio exterior: Agilismo en la industria aeroespacial
+Agilismo en la industria aeroespacial
 ===
 
 Por Mauro Strione, @maurostrione
@@ -6,8 +6,7 @@ Por Mauro Strione, @maurostrione
 
 Tags
 ----
-experiencia, adopción, kanban, Scrum, innovación, satélites, espacio, aeroespacial, visualización
-
+kanban, Scrum, innovación
 
 Contexto
 ---------

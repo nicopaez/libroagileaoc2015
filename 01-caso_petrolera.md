@@ -1,4 +1,4 @@
-Una caso de agile en industria petrolera
+Agilismo en la industria petrolera
 ======
 
 Por Nicolás Paez, @inicopaez
