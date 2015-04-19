@@ -2,6 +2,7 @@
 
 Equipo de producto reintenta implementación ágil tras fracaso en una adopción previa
 =====
+Por Pablo Tortorella, @pablitux
 
 Tags
 -----
