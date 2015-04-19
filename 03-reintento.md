@@ -1,6 +1,6 @@
 
 
-Equipo de producto reintenta implementación ágil tras fracaso en una adopción previa
+Reintento de implementación ágil tras fracaso
 =====
 Por Pablo Tortorella, @pablitux
 
