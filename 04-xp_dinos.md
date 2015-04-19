@@ -30,6 +30,8 @@ Solución
 
 A pesar de ser ya por esa época una plataforma que no se estaba actualizando, la comunidad alrededor de VFP era y sigue siendo muy activa, y un pequeño grupo con el que yo había colaborado había generado un framework básico para pruebas unitarias llamado FoxUnit; básicamente un port de jUnit, con una interfaz de usuario para ejecutar las pruebas a nivel individual o de fixture.
 
+Con eso empezamos a aplicar TDD en las funcionalidades nuevas, y 
+
 
 
 
