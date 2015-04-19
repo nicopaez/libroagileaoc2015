@@ -6,3 +6,4 @@
 * [Producto sin usuario](02-producto_sin_usuarios.md)
 * [XP para Dinosaurios](04-xp_dinos.md)
 * [Refactoring groso](05-refactoring_groso.md)
+* [Plataforma de cine de software libre](06-plataforma_cine.md)
