@@ -1,5 +1,6 @@
-Refactoring groso
+Refactoring groso 
 ===
+(por Carlos Peix)
 
 Tags
 ===
@@ -63,6 +64,12 @@ De nuevo pasó sin problemas por el servidor de integración contínua. Estaba e
 
 Paso tres
 ---
+En los pasos anteriores solo hicimos cambios de “infraestructura”, no tocamos el modelo y, por lo tanto, aún no estabamos en condiciones de satisfacer el pedido de Luis.
+
+Decidimos dar un pequeño paso, para variar. en todos los lugares en los que fuese posible usar el tipo Empresa en lugar de Proveedor o Cliente.
+
+Este cambio, en términos de Domain Driven Design, significa que utilizamos el tipo correcto en cada “bounded context”. Como valór agregado, el código quedó mas claro y mas coherente.
+
 
 Conclusion
 ===
