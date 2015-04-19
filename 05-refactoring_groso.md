@@ -68,8 +68,22 @@ En los pasos anteriores solo hicimos cambios de “infraestructura”, no tocamo
 
 Decidimos dar un pequeño paso, para variar. en todos los lugares en los que fuese posible usar el tipo Empresa en lugar de Proveedor o Cliente.
 
-Este cambio, en términos de Domain Driven Design, significa que utilizamos el tipo correcto en cada “bounded context”. Como valór agregado, el código quedó mas claro y mas coherente.
+Este cambio, en términos de Domain Driven Design, significa que utilizamos el tipo correcto en cada “bounded context”. Como valor agregado, el código quedó mas claro y mas coherente.
 
+Paso cuatro (aún pendiente)
+---
+En este paso el plan es desdoblar a nivel de modelo a la entidad Empresa de las entidades Cliente y Proveedor de manera que estas dos últimas tengan una instancia de Empresa, asociada por composición.
+
+En el caso de que la misma empresa sea Proveedor y Cliente, entonces la instancia de cada uno tendrá una referencia a la misma instancia de Empresa.
+
+Convertir a una empresa en proveedor significa crear una nueva instancia de la clase Proveedor asociada a esa empresa.
 
 Conclusion
 ===
+Creo que este cambio hubiese sido mucho mas traumático si no hubiesemos tenido 1000 pruebas automatizadas, tan traumático que seguramente no lo hubieramos hecho.
+
+Muchos proyectos de software bien intencionados pero que no tienen una buena cantidad de pruebas automatizadas, postergan este tipo de cambios generando deuda técnica que, poco a poco, termina por paralizarlos.
+
+En mi opinión todo equipo que decide (sí, lo decide, es material de otro capítulo) no escribir y mantener pruebas automatizadas, compromete el proyecto a largo plazo.
+
+Hay otras decisiones que facilitaron el proceso: Integración contiua y migraciones de base de datos automatizadas.
