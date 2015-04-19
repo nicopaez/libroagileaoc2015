@@ -1,4 +1,4 @@
-Título: Desarrollo de una plataforma de sitios de cine para canales de tv en América Latina
+Desarrollo de una plataforma de sitios de cine para canales de tv en América Latina
 ===
 
 Por Diego Fontdevila, @dfontde
