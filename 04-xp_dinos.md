@@ -3,9 +3,11 @@ XP para Dinosaurios
 
 Por Martín Salías (@MartinSalias)
 
+
 Tags:
 ---
 xp, tdd, pruebas unitarias, pruebas de aceptación, integración continua
+
 
 Contexto
 ---
