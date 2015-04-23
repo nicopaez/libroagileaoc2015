@@ -1,6 +1,6 @@
-El evento Agile Open Camp
+AOC: un evento autoorganizado
 ===
-Por Tomás Christie
+Por Tomás Christie @tommychristie
 
 Tags
 ---
