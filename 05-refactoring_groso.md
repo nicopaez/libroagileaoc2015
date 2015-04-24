@@ -4,7 +4,7 @@ Por Carlos Peix, @carlospeix
 
 Tags
 ===
-refactoring
+refactoring, clean code, ood/oop
 
 Contexto
 ===
