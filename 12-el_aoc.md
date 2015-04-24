@@ -1,7 +1,8 @@
 Agile Open Camp: auto-organización y efecto mariposa
 ===
 Por Tomás Christie @tommychristie
-Revisor Thomas Wallet @walletthomas
+
+Revisor Thomas Wallet @WalletThomas
 
 Tags
 ---
