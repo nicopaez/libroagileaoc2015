@@ -10,7 +10,7 @@ Contexto
 ------
 Con un par de años encima sobre desarrollo de software y porque podía compilar mil líneas de código pensaba que sabía todo, llegue a una empresa donde facturaban mucho y gestionaban poco. Tenía mi “jefe superior al mando” al que no le imploraba que nos sentemos a estudiar sobre metodologías Agiles para cambiar nuestra forma de trabajo. 
 
-Desafío 
+Desafio 
 -----
 Triste de escuchar cosas como; 
 -Eso que vos querés cambiar es algo que nos resultó bien por décadas. 
