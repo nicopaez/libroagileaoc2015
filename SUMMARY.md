@@ -17,4 +17,5 @@
 * [Resultados que hablan por sí solos](13-resultados_que_hablan.md)
 * [Especificación con ejemplos en academia](14-especificacion_con_ejemplos.md)
 * [Agile Open Camp: auto-organización y efecto mariposa](15-el_aoc.md)
-* []
+* [Palabras finales](16-palabras_finales.md)
+* [Glosario](glosario.md)
