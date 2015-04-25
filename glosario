@@ -5,15 +5,13 @@ Glosario
 
 * **Backlog de Producto**: Es una lista ordenada de ideas para el producto, mantenida en el orden en que esperamos llevarlas a cabo. Es la única fuente posible de requerimientos. Esto significa que todo el trabajo que realiza el Equipo de Desarrollo proviene del Backlog de Producto. Toda idea de funcionalidad, mejora, bug fix, requerimiento de documentación -todas y cada una de las tareas que llevan a cabo- se deriva de un ítem de Backlog de Producto. [proyectosagiles.org/lista-requisitos-priorizada-product-backlog] (http://www.proyectosagiles.org/lista-requisitos-priorizada-product-backlog)
 
-* **Coaching Kata**:
+* **Coaching Kata / Improvement Kata**:
 
 * **Commit**:
 
 * **Historia de Usuario**:
 
 * **Impact Mapping**: Impact mapping es una técnica de planificación estratégica que ayuda a las organizaciones a evitar perder dirección durante la construcción y entrega de productos, comunicando claramente los supuestos, ayudando a los equipos a alinear sus actividades con los objetivos estrategicos y tomar mejores decisiones en el camino. [impactmapping.org] (http://impactmapping.org/)
-
-* **Improvement Kata**:
 
 * **Integración Continua**:
 
