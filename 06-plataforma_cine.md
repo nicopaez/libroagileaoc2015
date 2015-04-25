@@ -3,21 +3,22 @@ Desarrollo de una plataforma de sitios de cine para canales de tv en América La
 
 Por Diego Fontdevila, @dfontde y Marcelo Gore, @marcelogore
 
-Tags: cine, plataforma, software libre, scrum, tdd, integración continua, errores
-—
+Tags
+---
+cine, plataforma, software libre, scrum, tdd, integración continua, errores
 
 Contexto
-—
+---
 Nuestro cliente buscaba desarrollar una nueva plataforma para los sitios de sus canales de tv de cines y series. A partir de un socio estratégico común, comenzamos a conversar para definir un proyecto conjunto de desarrollo. El sponsor del proyecto era el responsable de cine y series para América Latina, y se encontraba en Miami. Junto al equipo local de cine y series del cliente realizamos un taller de varios encuentros para definir los objetivos y las características básicas del producto, usando casos de uso.
 
 
 Desafíos
-—
+---
 Los sitios que el cliente deseaba montar sobre la plataforma abarcaban 18 países de América Latina, dos idiomas (español y portugués), contenidos compartidos (entre varios sitios), workflows de aprobaciones múltiples, requerimientos de escalabilidad exigentes durante eventos de cine y soporte para extensibilidad con módulos específicos (por ejemplo, “votá la película que se va a transmitir”, etc.).
 Durante el desarrollo del proyecto tuvimos que facilitar la interacción y alinear los intereses dispares de dos áreas cliente distinta, la de cine y series y la de IT. Para cine y series, el foco estaba en el sitio inicial que estaban intentando desarrollar, y para IT en la creación de una plataforma que facilitara el desarrollo de ese sitio, y de otros, incluyendo a otros clientes dentro de la compañía.
 
 Solución
-—
+---
 Nuestro equipo decidió experimentar con Scrum como método para el desarrollo del producto, y conformamos el equipo con cinco desarrolladores y un tester, además de un especialista (externo) que había trabajado en el equipo original de desarrollo del producto realizando tareas de optimización de performance.
 El primer desafío que encontramos en el arranque del proyecto fue un desfasaje en la definición de los requerimientos que habíamos desarrollado antes de definir el uso de la plataforma Liferay. Decidimos adaptar el lenguaje de dominio (por ejemplo, cambiar sección por página) en nuestros casos de uso, para que primara el lenguaje de dominio de Liferay, aplicando la premisa de utilizar un lenguaje común (ubiquitous language [1]), en el que la herramienta tuviera primera prioridad porque era muy costoso modificarla. El segundo fue reconciliar nuestro modelo de mental de los requerimientos con la exploración de un producto cuyas características detalladas no conocíamos a priori. Para esa tarea, nuestro tester propuso utilizar la técnica de especificar la funcionalidad creando un manual de usuario, que al mismo tiempo nos permitía documentar lo que aprendíamos al explorar Liferay.
 
@@ -39,7 +40,7 @@ Aplicamos Scrum básico sin modificaciones, y creamos nuestro primer tablero sob
 
 
 Conclusión
-—
+---
 Durante el proyecto aprendimos muchísimo, en particular a disfrutar de practicar Scrum y del delicioso momento de resolver un problema en producción usando nuestra pruebas unitarias creadas con TDD (alguna nos había faltado). Cometimos múltiples errores, algunos graves y otros no tanto, colaboramos cercanamente y pusimos varias versiones sucesivas del sitio en producción. A partir de esta interacción construimos con el área de IT del cliente una relación que duraría muchos años, no así con el área de cine y series, que eligió culpar a la solución de la falta de resultados de negocio.
 
 
