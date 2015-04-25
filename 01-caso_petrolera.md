@@ -1,18 +1,17 @@
-Agilismo en la industria petrolera
+Agilismo y colaboración en la industria petrolera
 ======
 
 Por Nicolás Paez, @inicopaez
 
 Tags
 ----
-scrum, alcance variable
+scrum, alcance variable, colaboración
 
 Contexto del proyecto
 ---
 
-Este artículo describe un proyecto en el que participé hace un par de años cuyo objetivo era la informatización del proceso de gestión de licitaciones de una empresa del rubro petrolero. El mismo fue realizado por un equipo de 4 personas en un plazo de 5 meses, trabajando con prácticas ágiles de gestión en el marco de un contrato de alcance variable.
+Este artículo describe un proyecto en el que participé hace un par de años y cuyo objetivo era la informatización del proceso de gestión de licitaciones de una empresa del rubro petrolero. El mismo fue realizado por un equipo de desarrollo de 4 personas en un plazo de 5 meses, trabajando con prácticas ágiles de gestión en el marco de un contrato de alcance variable.
 
-Trabajaba yo en aquel momento en un empresa de desarrollo de soluciones informáticas y nos había contactado una empresa del rubro petrolero para informatizar su proceso de gestión de licitaciones. 
 
 Desafío
 ----
