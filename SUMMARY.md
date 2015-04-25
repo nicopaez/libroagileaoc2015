@@ -11,5 +11,5 @@
 * [Agilismo en la industria aeroespacial](07-caso_aeroespacial.md)
 * [¡Siempre la mitad vacía del vaso, Luis!](08-mitad_vacia.md)
 * [Transformación de equipo](09-transformacion_de_equipo.md)
-* [Coaching organizacional para la adopción de métodos ágiles](10-couching_organizacional.md)
+* [Aplicación de scrum en un equipo de testing](10-testing-con-scrum.md)
 * [El próximo paso hacía el collective code ownership](11-collective_ownership.md)
