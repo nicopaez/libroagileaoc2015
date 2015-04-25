@@ -1,4 +1,4 @@
-El próximo paso hacía el collective code ownership
+El próximo paso hacia el collective code ownership
 ===
 
 Por Thomas Wallet, @WalletThomas
@@ -10,7 +10,7 @@ collective code ownership, kaizen, pair programming, scrum
 
 Contexto
 ---
-Un equipo de cinco desarrolladores, evolucionando y manteniendo seis aplicaciones de tipo administrativo para una corporación petrolera. Cada desarrollador con responsabilidad, conocimiento funcional y/o técnico sobre una o dos de las aplicaciones, y en un solo caso dos desarrolladores trabajando sobre la misma aplicación. 
+Un equipo de cinco desarrolladores, evolucionando y manteniendo seis aplicaciones de gestión administrativa para una corporación petrolera. Cada desarrollador con responsabilidad, conocimiento funcional y/o técnico sobre una o dos de las aplicaciones, y en un solo caso dos desarrolladores trabajando sobre la misma aplicación. 
 
 Desafíos
 ---
