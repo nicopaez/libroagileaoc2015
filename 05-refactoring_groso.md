@@ -67,7 +67,7 @@ Alteramos los mapeos de NHibernate (esta vez con table per class) y corrimos las
 
 Este cambio, aunque pequeño, era complejo puesto que incluía cambios en la base de datos, pero, ya que pasó sin problemas en dos o tres corridas consecutivas, decidimos integrarlo a  la rama principal.
 
-De nuevo pasó sin problemas en el servidor de integración continua. Estaba en condiciones de ir a producción.
+De nuevo pasó sin problemas en el servidor de **_integración continua_**. Estaba en condiciones de ir a producción.
 
 Tercer Paso 
 ---
@@ -75,7 +75,7 @@ En los pasos anteriores solo hicimos cambios de “infraestructura”, no tocamo
 
 Decidimos dar un paso pequeño, para variar. En todos los lugares en los que fuese posible usar el tipo Empresa en lugar de Proveedor o Cliente reemplazamos el tipo de la variable.
 
-Este cambio, en términos de Domain Driven Design, significa que utilizamos el tipo correcto en cada “bounded context”. Donde el código interactuaba con empresas independientemente de su condición de proveedor o cliente, usamos el tipo Empresa, en los demás usamos el tipo correspondiente. Como valor agregado, el código quedó más claro y más coherente.
+Este cambio, en términos de **_Domain Driven Design_**, significa que utilizamos el tipo correcto en cada “bounded context”. Donde el código interactuaba con empresas independientemente de su condición de proveedor o cliente, usamos el tipo Empresa, en los demás usamos el tipo correspondiente. Como valor agregado, el código quedó más claro y más coherente.
 
 Cuarto Paso (aún pendiente)
 ---
@@ -93,4 +93,4 @@ Muchos proyectos de software bien intencionados pero que no tienen una buena can
 
 En mi opinión, todo equipo que decide no escribir y mantener pruebas automatizadas, compromete el proyecto a largo plazo. Probablemente sea debatible si un equipo decide esto o no (mi opinión es que sí), pero eso es material de otro artículo.
 
-Hay otras decisiones que facilitaron el proceso: Integración continua y migraciones de base de datos automatizadas.
+Hay otras decisiones que facilitaron el proceso: **_Integración continua_** y migraciones de base de datos automatizadas.
