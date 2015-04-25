@@ -64,7 +64,7 @@ La primer iteración fue particular pues duró sólo 1 semana y la dedicamos a a
 Para la gestión del proyecto utilizamos la herramienta Trac, que era la herramienta estándar utilizada por nuestra empresa de desarrollo en aquel momento. Dicha herramienta brindaba:
 
 * Gestión de tickets y plan de versiones
-* Wiki
+* **_Wiki_**
 * Acceso web
 * Almacenamiento de documentos
 * Integración con sistema de gestión de código Subversion
@@ -84,7 +84,7 @@ Apenas finalizada una funcionalidad, la misma era validada con un experto del ne
 
 Había un detalle importante respecto de la forma en que el equipo planificaba las iteraciones. Las reuniones de planificación se hacían los lunes de la primera semana de la iteración, preferentemente por la mañana. Las reuniones de revisión de hacían los viernes de la segunda semana de la iteración. Sin embargo, el equipo planificaba de cara a completar el desarrollo el miércoles de la segunda semana de la iteración, lo cual dejaba un día y medio para hacer prueba de regresión y realizar ajustes correspondientes al feedback temprano obtenido de los expertos de negocio.
 
-Tanto la definición del proceso, como las user stories y sus correspondientes criterios de aceptación, eran escritos en la wiki del proyecto, en muchos casos por los mismos especialistas de negocio y luego eran revisados por algún miembro del equipo de desarrollo. También se pretendía que los expertos del negocio se encargaran de ejecutar las pruebas de aceptación, aunque esto no siempre se lograba.
+Tanto la definición del proceso, como las user stories y sus correspondientes criterios de aceptación, eran escritos en la **_Wiki_** del proyecto, en muchos casos por los mismos especialistas de negocio y luego eran revisados por algún miembro del equipo de desarrollo. También se pretendía que los expertos del negocio se encargaran de ejecutar las pruebas de aceptación, aunque esto no siempre se lograba.
 
 La fase de desarrollo se completó con algunas variaciones respecto de lo planificado pero sin problemas graves. Una vez que el sistema estuvo productivo, se pasó a mantenimiento tal como estaba previsto.
 
