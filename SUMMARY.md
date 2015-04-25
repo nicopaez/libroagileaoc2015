@@ -6,7 +6,7 @@
 * [Producto sin usuario](02-producto_sin_usuarios.md)
 * [Reintento de implementación ágil tras fracaso](03-reintento.md)
 * [XP para Dinosaurios](04-xp_dinos.md)
-* [Refactoring groso](05-refactoring_groso.md)
+* [Refactoring de alto impacto](05-refactoring_groso.md)
 * [Plataforma de cine de software libre](06-plataforma_cine.md)
 * [Agilismo en la industria aeroespacial](07-caso_aeroespacial.md)
 * [¡Siempre la mitad vacía del vaso, Luis!](08-mitad_vacia.md)

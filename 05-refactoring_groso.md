@@ -1,4 +1,4 @@
-Refactoring groso 
+Refactoring de alto impacto 
 ===
 Por Carlos Peix, @carlospeix
 
