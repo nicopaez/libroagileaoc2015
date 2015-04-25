@@ -4,7 +4,7 @@ Por Soledad Pinter
 
 Tags
 ---
-Kanban, tableros,  IT , petrolera, adopción, transformación, mejora de procesos.
+kanban, transformación, mejora de procesos
 
 Contexto
 ---
@@ -12,7 +12,7 @@ El departamento de IT de una petrolera internacional necesitaba  mejorar su proc
 
 Desafío
 ---
-El desafío no fue en sí el modelado del proceso al tablero, el cual fue evolucionando con el tiempo, sino más bien la gran negación y descrédito hacia el cambio por parte del equipo de técnicos de IT, quienes se negaban rotundamente a dejar de trabajar en silos.  No veían el valor en trabajar como equipo, coordinados y comunicados.
+El desafío no fue tanto el modelado del proceso en un tablero de tareas, el cual fue evolucionando con el tiempo, sino más bien la gran negación y descrédito hacia el cambio por parte del equipo de técnicos de IT, quienes se negaban rotundamente a dejar de trabajar en silos.  No veían el valor en trabajar como equipo, coordinados y comunicados.
 
 Solución
 ---
@@ -20,8 +20,8 @@ Fuimos trabajando progresivamente con la adopción de diferentes herramientas á
 El grupo de especialistas comenzó reuniéndose dos veces a la semana frente al tablero para revisar el estado de las tareas. Realizamos una reunión con formato daily, donde ellos contaban en qué demanda habían trabajado esa semana, cuál iban a tomar luego y fundamentalmente comenzaron a hablar de sus impedimentos y dependencias. Básicamente comenzaron a escucharse, hablar de sus soluciones y coordinar sus tareas. Lentamente fueron encontrando valor en estas reuniones: al fin compartían sus tareas en curso y detectaban tareas cruzadas que necesitaban coordinación, gran ausente hasta ese momento.
 Como toda transformación, no resultó ni fácil ni instantánea. Fueron semanas empujando al equipo, buscándolos uno por uno en sus escritorios para asistir a las reuniones. Utilizamos una pelota como token para lograr un orden y su escucha atenta. La visualización de los estados de las tareas como mecanismo de generación de compromiso fue clave en el cambio de mindset del equipo. Cada Post-it que movían en el tablero se sentía como una pequeña batalla ganada. Día a día, Post-it a Post-it.
 Realizamos varias retrospectivas sobre el tablero como irradiador de información. Fueron ajustando columnas para hacer coincidir su proceso, así como los carriles para una mejor identificación de sus especialidades.
-Su forma de mostrar motivación e interés por la mejora del proceso y los tableros se tradujo en una característica muy peculiar: la personalización del tablero.  Notaron que les resultaba difícil encontrar las tareas propias identificadas con iniciales en los Post-its. La solución: buscaron el parecido físico de cada integrante del equipo con caricaturas. Así construyeron imanes con estas caricaturas y los utilizaron para identificar sus tareas. Algo tan simple marcó la diferencia en su actitud y compromiso.  El equipo comenzó a llegar a tiempo a las reuniones, a preocuparse.(…)
+Su forma de mostrar motivación e interés por la mejora del proceso y los tableros se tradujo en una característica muy peculiar: la personalización del tablero.  Notaron que les resultaba difícil encontrar las tareas propias identificadas con iniciales en los Post-its. La solución: buscaron el parecido físico de cada integrante del equipo con caricaturas. Así construyeron imanes con estas caricaturas y los utilizaron para identificar sus tareas. Algo tan simple marcó la diferencia en su actitud y compromiso.  El equipo comenzó a llegar a tiempo a las reuniones, a preocuparse.
 
 Conclusión
 ---
-Muchas veces no es necesario cargar de herramientas y ceremonias ágiles los procesos de transformación de un equipo. Busquemos en los pequeños cambios el aporte  de valor a su trabajo diario.(…)  
+Muchas veces no es necesario cargar de herramientas y ceremonias ágiles los procesos de transformación de un equipo. Busquemos en los pequeños cambios el aporte  de valor a su trabajo diario.
