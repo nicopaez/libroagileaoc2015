@@ -53,7 +53,7 @@ Comparto algunos ejemplos de decisiones tomadas en el marco de estas sesiones:
 * Realizan un experimento a la vez, lo que les permite focalizarse y analizar los resultados claramente.
 * El equipo cuenta con una Bitácora que se actualiza con cada sesión de trabajo, tanto las sesiones internas con las que involucran a los coaches ágiles.
 * Realizamos conjuntamente un análisis de la sostenibilidad de la transformación organizacional que están llevando adelante. De este análisis surgió la necesidad de definir, visibilizar y comunicar la visión de dicha transformación, entre otras cuestiones a seguir trabajando a futuro.
-* Están utilizando la **_Improvement Kata_** y el **_Coaching Kata_** (ambos descritos en el libro *"Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results"*, de Mike Rother) como guía de la mejora. La utilización de la Kata proveyó orden, disciplina y llevó a que ciertos temas sean analizados más críticamente. Por ejemplo, llevó a que varios temas tuvieran asociadas ciertas métricas, a las cuales se llegó luego de un trabajo de análisis detallado.
+* Están utilizando los **_Improvement Kata / Coaching Kata_** (ambos descritos en el libro *"Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results"*, de Mike Rother) como guía de la mejora. La utilización de la Kata proveyó orden, disciplina y llevó a que ciertos temas sean analizados más críticamente. Por ejemplo, llevó a que varios temas tuvieran asociadas ciertas métricas, a las cuales se llegó luego de un trabajo de análisis detallado.
 
 Conclusión
 -----
