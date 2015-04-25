@@ -15,6 +15,6 @@
 * [El próximo paso hacía el collective code ownership](11-collective_ownership.md)
 * [Código oscuro](12-codigo_oscuro.md)
 * [Resultados que hablan por sí solos](13-resultados_que_hablan.md)
-* [Especificación con ejemplos](14-especificacion_con_ejemplos.md)
+* [Especificación con ejemplos en academia](14-especificacion_con_ejemplos.md)
 * [Agile Open Camp: auto-organización y efecto mariposa](15-el_aoc.md)
 * []

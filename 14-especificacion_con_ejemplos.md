@@ -1,4 +1,4 @@
-Especificación con ejemplos
+Especificación con ejemplos en la academia 
 ======
 Por Nicolás Paez, @inicopaez
 
