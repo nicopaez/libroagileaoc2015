@@ -3,9 +3,7 @@ Glosario
 
 * **Agile Manifesto**: El 17 de febrero de 2001 diecisiete críticos de los modelos de mejora del desarrollo de software basados en procesos, se reunieron en Snowbird, Utah para tratar sobre técnicas y procesos para desarrollar software. En la reunión se acuñó el término “Métodos Ágiles” para definir a los métodos que estaban surgiendo como alternativa a las metodologías formales (CMMI, SPICE) a las que consideraban excesivamente “pesadas” y rígidas por su carácter normativo y fuerte dependencia de planificaciones detalladas previas al desarrollo. Los integrantes de la reunión resumieron los principios sobre los que se basan los métodos alternativos en cuatro postulados, lo que ha quedado denominado como Manifiesto Ágil. [agilemanifesto.org](http://agilemanifesto.org/iso/es/)
 
-* **Backlog de Producto**:
-
-* **Change Management**:
+* **Backlog de Producto**: Es una lista ordenada de ideas para el producto, mantenida en el orden en que esperamos llevarlas a cabo. Es la única fuente posible de requerimientos. Esto significa que todo el trabajo que realiza el Equipo de Desarrollo proviene del Backlog de Producto. Toda idea de funcionalidad, mejora, bug fix, requerimiento de documentación -todas y cada una de las tareas que llevan a cabo- se deriva de un ítem de Backlog de Producto. [proyectosagiles.org/lista-requisitos-priorizada-product-backlog] (http://www.proyectosagiles.org/lista-requisitos-priorizada-product-backlog)
 
 * **Coaching Kata**:
 
