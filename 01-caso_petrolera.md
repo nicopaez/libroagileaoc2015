@@ -1,6 +1,5 @@
 Agilismo y colaboración en la industria petrolera
 ======
-
 Por Nicolás Paez, @inicopaez
 
 Tags
@@ -9,13 +8,10 @@ scrum, alcance variable, colaboración
 
 Contexto del proyecto
 ---
-
 Este artículo describe un proyecto en el que participé hace un par de años y cuyo objetivo era la informatización del proceso de gestión de licitaciones de una empresa del rubro petrolero. El mismo fue realizado por un equipo de desarrollo de 4 personas en un plazo de 5 meses, trabajando con prácticas ágiles de gestión en el marco de un contrato de alcance variable.
-
 
 Desafío
 ----
-
 Hasta aquel momento esta empresa tenía un proceso de licitaciones totalmente manual lo cual implicaba:
 
 * Gran volumen de información en papel
@@ -31,11 +27,8 @@ El objetivo del proyecto era resolver estas cuestiones a partir de la informatiz
 
 Un detalle técnico relevante era que la solución debía ser implementada sobre una plataforma de gestión de contenidos (CMS) que el cliente ya estaba utilizando.
 
-
-
 Solución
 ---
-
 La venta del proyecto fue llevada a cabo por el gerente del área de desarrollo con mi asistencia, que en aquel momento era líder técnico. Ambos hicimos un primer relevamiento a partir del cual, mi equipo de técnicos y yo hicimos una estimación de esfuerzo. Luego junto con el gerente del área de desarrollo, hicimos un plan tentativo de versiones tomando como base la estimación realizada por el equipo, los riesgos detectados y las fechas deseables que había manifestado el cliente.
 
 Es importante destacar que antes de la presentación formal de la propuesta tuvimos una reunión con el cliente en la que hicimos una presentación informal de la misma, para explicar nuestra forma de trabajo y así asegurarnos que la propuesta escrita fuera bien interpretada. La propuesta tenía algunas particularidades interesantes.
@@ -89,7 +82,6 @@ La fase de desarrollo se completó con algunas variaciones respecto de lo planif
 
 Conclusión
 ----
-
 No todos los clientes están dispuestos a trabajar de la forma aquí descrita ni tampoco todos los proyectos lo requieren. Tal vez el proyecto se podría haber realizado utilizando otra dinámica de trabajo, pero en su momento creímos que esa era la forma apropiada de llevar ese proyecto. Hoy en día sigo pensando lo mismo.
 
 Entre los puntos que considero fueron claves para el éxito del proyecto no puedo dejar de mencionar:
