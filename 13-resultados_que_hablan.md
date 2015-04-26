@@ -3,15 +3,15 @@ Resultados hablan que hablan por si solos
 Por Ivan Hansen, @ivanDKnito
 
 Tags
-----
+---
 scrum, mejora continua, coraje
 
 Contexto
-------
+---
 Con un par de años encima sobre desarrollo de software y porque podía compilar mil líneas de código pensaba que sabía todo, llegue a una empresa donde facturaban mucho y gestionaban poco. Tenía mi “jefe superior al mando” al que no le importaba que nos sentemos a estudiar sobre metodologías Agiles para mejorar nuestra forma de trabajo. 
 
-Desafio 
------
+Desafío
+---
 Triste de escuchar cosas como; 
 -Eso que vos querés cambiar es algo que nos resultó bien por décadas. 
 -Veo más para perder que para ganar con eso de entregas tempranas.

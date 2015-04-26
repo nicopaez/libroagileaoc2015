@@ -4,7 +4,7 @@ Por Soledad Pinter
 
 Tags
 ---
-kanban, transformación, mejora de procesos
+Kanban, transformación, mejora de procesos
 
 Contexto
 ---

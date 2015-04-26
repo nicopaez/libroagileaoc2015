@@ -6,7 +6,7 @@ Por Pablo Tortorella, @pablitux
 
 Tags
 -----
-producto, mejora, mejora continua, espacio, retrospectiva, novedades, equipo, multifuncional, scrum, fracaso, hacer con, feedback, proyectos, toyota kata, improvement kata, kata, lean change management, mvc, experimento, backlog, lenguaje común
+producto, mejora continua, scrum
 
 Contexto
 -----

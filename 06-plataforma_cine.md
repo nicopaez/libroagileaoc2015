@@ -5,7 +5,7 @@ Por Diego Fontdevila, @dfontde y Marcelo Gore, @marcelogore
 
 Tags
 ---
-cine, plataforma, software libre, scrum, tdd, integración continua, errores
+cine, Scrum, errores
 
 Contexto
 ---

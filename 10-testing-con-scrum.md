@@ -1,4 +1,4 @@
-Aplicación de scrum en un equipo de testing
+Aplicación de Scrum en un equipo de testing
 ===
 
 Por Juan José Zapico, @JJZapico
@@ -28,7 +28,6 @@ Pero el desafío principal fue aplicar Scrum en un equipo que no era de desarrol
 
 Solución
 ---
-
 Dado que ninguno de los miembros del equipo tenía experiencia previa trabajando con Scrum lo primero que hicimos fue una capacitación muy breve para introducirlos al tema, básicamente a
 modo de referencia y con la aclaración de que lo que íbamos a hacer se iba a salir de la teoría, adaptando sobre la marcha lo que fuera necesario.
 
