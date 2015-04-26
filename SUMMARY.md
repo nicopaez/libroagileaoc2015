@@ -13,7 +13,6 @@
 * [Transformación de equipo](09-transformacion_de_equipo.md)
 * [Aplicación de scrum en un equipo de testing](10-testing-con-scrum.md)
 * [El próximo paso hacía el collective code ownership](11-collective_ownership.md)
-* [Código oscuro](12-codigo_oscuro.md)
 * [Resultados que hablan por sí solos](13-resultados_que_hablan.md)
 * [Especificación con ejemplos en academia](14-especificacion_con_ejemplos.md)
 * [Agile Open Camp: auto-organización y efecto mariposa](15-el_aoc.md)
