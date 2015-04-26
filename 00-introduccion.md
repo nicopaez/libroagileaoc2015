@@ -18,7 +18,6 @@ Sobre la terminologia
 ---
 De cara que este libro sea accesible a la mayor cantidad de gente posible hemos resaltado en negritas aquellos términos que pueden resultar extraños para un lector no familiarizado con la terminología ágil y los hemos explicado brevemente en un glosario al final del libro.
 
-
 Colaboradores
 ---
 Más allá del gran trabajo realizado por los autores en la escritura de los capítulos, hubo algunas cuestiones adicionales que fueron necesarias para darle forma a este libro. En ese sentido Thomas Wallet hizo un gran trabajo de revisión mientras que Mauro Strione se encargo de la portada.

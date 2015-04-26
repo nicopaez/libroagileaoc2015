@@ -16,7 +16,6 @@ Triste de escuchar cosas como:
 
 * Eso que vos querés cambiar es algo que nos resultó bien por décadas. 
 * Veo más para perder que para ganar con eso de entregas tempranas.
-
 * Un día mi jefe me dijo: "Cuando tenía tu edad lo vi a Yourdon en una conferencia en Europa, yo ya pasé por lo que vos me estas planteando. Sos chico, más adelante me vas a entender."
 
 
