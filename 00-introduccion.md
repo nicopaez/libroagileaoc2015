@@ -1,7 +1,7 @@
 Introducción
 ===
 
-Que es este libro
+Sobre este libro
 ---
 Este libro reúne un conjunto de experiencias de aplicación de métodos ágiles en casos reales relatadas por practicantes de la comunidad ágil de Argentina. En algunos casos el resultado fue positivo y en algunos otros no pero independientemente de ello consideramos que todos los casos aquí presentados pueden aportar valor al lector.
 
