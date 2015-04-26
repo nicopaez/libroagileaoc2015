@@ -63,6 +63,8 @@ equipo. El Kanban permite identificar atascos en el trabajo, mejorar los tiempos
 
 * **TDD (Test-Driven Development)**: TDD es una técnica de programación que se centra en el hecho de escribir pruebas automatizadas de unidad antes de programar la funcionalidad, siguiendo el ciclo "falla, pasa, refactoriza" intentando así mejorar la calidad del software que producimos. [http://www.jamesshore.com/Agile-Book/test_driven_development.html] (http://www.jamesshore.com/Agile-Book/test_driven_development.html)
 
+* **Timebox**: período de tiempo de duración fija 
+
 * **Wiki**: Una Wiki (del hawaiano wiki wiki, «rápido») es un sitio web colaborativo que puede ser editado por varios usuarios. [http://www.wiki.org] (http://www.wiki.org)
 
 * **XP (Extreme Programming)**: Extreme Programming (XP) es una metodología de desarrollo ágil fundamentada en una serie de buenas prácticas y valores que tienen como objetivo el aumentar la productividad a la hora de desarrollar programas. Persigue la búsqueda de un desarrollo más sencillo, aplicando el sentido común. En todo momento, le da prioridad a los trabajos que disminuyen la burocracia que hay alrededor de la programación y a los trabajos que dan un resultado directo. [http://c2.com/cgi/wiki?ExtremeProgramming] (http://c2.com/cgi/wiki?ExtremeProgramming)

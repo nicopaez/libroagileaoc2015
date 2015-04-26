@@ -11,7 +11,7 @@
 * [Agilismo en la industria aeroespacial](07-caso_aeroespacial.md)
 * [¡Siempre la mitad vacía del vaso, Luis!](08-mitad_vacia.md)
 * [Transformación de equipo](09-transformacion_de_equipo.md)
-* [Aplicación de scrum en un equipo de testing](10-testing-con-scrum.md)
+* [Aplicación de Scrum en un equipo de testing](10-testing-con-scrum.md)
 * [El próximo paso hacía el collective code ownership](11-collective_ownership.md)
 * [Resultados que hablan por sí solos](13-resultados_que_hablan.md)
 * [Especificación con ejemplos en academia](14-especificacion_con_ejemplos.md)
