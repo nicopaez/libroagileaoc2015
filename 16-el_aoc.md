@@ -34,4 +34,4 @@ Eso ocurrió no solo durante la gestación, sino también luego durante el desar
 
 El espíritu de equipo y de auto-organización permitió descomprimir las exigencias de un evento de esta naturaleza y dimensiones, generando un producto final de altísima calidad, que ha tenido enormes repercusiones en la comunidad ágil y sobre el cual ya está hablando de una edición 2016.
 
-En síntesis, fue un gran éxito de toda la comunidad ágil y un ejemplo de como la auto-organización puede lograr resultados impactantes.
+En síntesis, fue un gran éxito de toda la comunidad ágil y un ejemplo de cómo la auto-organización puede lograr resultados impactantes.
