@@ -8,7 +8,7 @@ academia, desarrollo dirigido por pruebas, especificación con ejemplos
 
 Contexto del proyecto
 ---
-En la cátedra de Algoritmos y Programación 3 de la Facultad de Ingeniería de la Universidad de Buenos tenemos como principal tema la enseñanza de Programación Orientada a Objetos. Adicionalmente desde el año 2003 hemos ido incluyendo en la materia distintas prácticas de ingeniería surgidas desde el movimiento ágil como ser **_desarrollo dirigido por pruebas_** e **_integración continua_**.
+En la cátedra de Algoritmos y Programación 3 de la Facultad de Ingeniería de la Universidad de Buenos Aires tenemos como principal tema la enseñanza de Programación Orientada a Objetos. Adicionalmente desde el año 2003 hemos ido incluyendo en la materia distintas prácticas de ingeniería surgidas desde el movimiento ágil como ser **_desarrollo dirigido por pruebas_** e **_integración continua_**.
 
 Desafío
 ----
