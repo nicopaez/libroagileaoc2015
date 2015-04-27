@@ -5,7 +5,7 @@ Por Juan José Zapico, @JJZapico
 
 Tags
 ---
-Scrum, testing 
+scrum, testing 
 
 Contexto
 ---
