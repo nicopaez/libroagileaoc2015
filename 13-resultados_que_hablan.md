@@ -1,4 +1,4 @@
-Resultados hablan que hablan por si solos
+Resultados que hablan por si solos
 ====
 Por Ivan Hansen, @ivanDKnito
 
@@ -24,7 +24,7 @@ Cada día se incrementaba el desafío de seguir motivando mi espíritu de cambio
 Solución
 ---
 Hasta que una tarde decidí implementar **_Scrum_** en mi equipo, -Total, no saben que es, así que no se van a dar cuenta - me dije a mi mismo y largó la **_planificación de la iteración_**.
-Después de un mes, y cuando todo el mundo se preguntaba -¿Que hacen los siete locos esos parados en ronda con una pelota de tenis pasándosela unos a otros? (**_daily meeting_** + un token) y sumado que invitamos a un cliente a la **_Revisión_** sin hacerle saber al gerente, tuve que gritar ¡Estamos usando **_Scrum_**!. 
+Después de un mes, y cuando todo el mundo se preguntaba -¿Qué hacen los siete locos esos parados en ronda con una pelota de tenis pasándosela unos a otros? (**_daily meeting_** + un token) y sumado que invitamos a un cliente a la **_Revisión_** sin hacerle saber al gerente, tuve que gritar ¡Estamos usando **_Scrum_**!. 
 
 El segundo cliente que llego a la empresa me preguntó: *"¿Cambiaron la gerencia o que paso? Digo porque ahora nos invitan a ver lo que están haciendo"*.
 
