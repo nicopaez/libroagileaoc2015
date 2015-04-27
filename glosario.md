@@ -1,15 +1,21 @@
 Glosario
 ======
 
-* **Agile Manifesto**: El 17 de febrero de 2001 diecisiete críticos de los modelos de mejora del desarrollo de software basados en procesos, se reunieron en Snowbird, Utah para tratar sobre técnicas y procesos para desarrollar software. En la reunión se acuñó el término “Métodos Ágiles” para definir a los métodos que estaban surgiendo como alternativa a las metodologías formales (CMMI, SPICE) a las que consideraban excesivamente “pesadas” y rígidas por su carácter normativo y fuerte dependencia de planificaciones detalladas previas al desarrollo. Los integrantes de la reunión resumieron los principios sobre los que se basan los métodos alternativos en cuatro postulados, lo que ha quedado denominado como Manifiesto Ágil. [http://agilemanifesto.org/iso/es](http://agilemanifesto.org/iso/es)
+* **Agile Manifesto**: El 17 de febrero de 2001 diecisiete críticos del desarrollo de software basados en procesos, se reunieron en Snowbird, Utah para tratar sobre técnicas y procesos para desarrollar software. En la reunión se acuñó el término “Métodos Ágiles” para definir a los métodos que estaban surgiendo como alternativa a las metodologías formales (CMMI, SPICE) a las que consideraban excesivamente “pesadas” y rígidas por su carácter normativo y fuerte dependencia de planificaciones detalladas previas al desarrollo. Los integrantes de la reunión resumieron los principios sobre los que se basan los métodos alternativos en cuatro postulados, lo que ha quedado denominado como Manifiesto Ágil. [http://agilemanifesto.org/iso/es](http://agilemanifesto.org/iso/es)
 
 * **Backlog de Producto**: Es una lista ordenada de ideas para el producto, mantenida en el orden en que esperamos llevarlas a cabo. Es la única fuente posible de requerimientos. Esto significa que todo el trabajo que realiza el Equipo de Desarrollo proviene del Backlog de Producto. Toda idea de funcionalidad, mejora, bug fix, requerimiento de documentación -todas y cada una de las tareas que llevan a cabo- se deriva de un ítem de Backlog de Producto. [http://www.proyectosagiles.org/lista-requisitos-priorizada-product-backlog] (http://www.proyectosagiles.org/lista-requisitos-priorizada-product-backlog)
+
+* **Backlog de Sprint**: Lista de tareas que el equipo elabora en la reunión de **_planificación de la iteración_** en **_Scrum_** como plan para completar los objetivos/requisitos seleccionados para la iteración y que se compromete a demostrar al cliente al finalizar la iteración, en forma de incremento de producto preparado para ser entregado. A veces se materializa a través de un **_Tablero de Tareas_**. [http://www.proyectosagiles.org/lista-tareas-iteracion-sprint-backlog] (http://www.proyectosagiles.org/lista-tareas-iteracion-sprint-backlog)
+
+* **Backlog de Tareas**: ver **_Backlog de Sprint_**
+
+* **Backlog de Trabajo**: ver **_Backlog de Sprint_**
 
 * **Casos de Uso**: Los casos de uso son una técnica para especificar el comportamiento de un sistema. Cada caso de uso es una secuencia de interacciones entre un sistema y alguien o algo que usa alguno de sus servicios. [http://martinfowler.com/bliki/UseCase.html] (http://martinfowler.com/bliki/UseCase.html)
 
 * **Daily Meeting**: en esta reunión celebrada cada día al mismo horario y en no más de 15-30 minutos, cada miembro del equipo informa a sus compañeros que hizó desde la última reunión diaria, que piensa hacer hasta la próxima y que problemas está encontrando. [http://www.proyectosagiles.org/reunion-diaria-de-sincronizacion-scrum-daily-meeting] (http://www.proyectosagiles.org/reunion-diaria-de-sincronizacion-scrum-daily-meeting)
 
-* **Desarrollo Dirigido por Prueba**: ver **_TDD (Test-Driven Development)_**
+* **Desarrollo Dirigido por Prueba**: ver **_Test-Driven Development (TDD)_**
 
 * **Domain Driven Design (DDD)**: Domain-Driven Design (DDD) es un enfoque para el desarrollo de software con requisitos complejos, en el cual la implementación está fuertemente conectada con  un modelo evolutivo de los conceptos claves del negocio. [http://www.domaindrivendesign.org] (http://www.domaindrivendesign.org)
 
@@ -31,25 +37,25 @@ Glosario
 * **Kanban**: Kanban es una metodología de producción u organización del trabajo que se basa en señales visuales para gestionar el esfuerzo y dedicación del
 equipo. El Kanban permite identificar atascos en el trabajo, mejorar los tiempos y mejorar la calidad del proceso. [http://limitedwipsociety.ning.com] (http://limitedwipsociety.ning.com)
 
-* **MVC (Minimal Viable Change)**: el MVC es el cambio más reducido capaz de proveer un aprendizaje validado sobre el impacto de una transformación del comportamiento de los  miembros de una organización. [http://agileconsulting.blogspot.com.ar/2013/08/refining-change-canvas-to-represent.html] (http://agileconsulting.blogspot.com.ar/2013/08/refining-change-canvas-to-represent.html)
+* **MVC (Minimal Viable Change)**: el MVC es el cambio más reducido posible capaz de proveer un aprendizaje validado sobre el impacto de una transformación del comportamiento de los  miembros de una organización. [http://agileconsulting.blogspot.com.ar/2013/08/refining-change-canvas-to-represent.html] (http://agileconsulting.blogspot.com.ar/2013/08/refining-change-canvas-to-represent.html)
 
 * **Open Space**: el Open Space es una técnica para facilitar reuniones largas (por ejemplo de 1 día) auto-organizadas para grandes grupos (con la ayuda en la apertura, sostenimiento y cierre de una persona externa que actúa como facilitadora). La agenda y sus contenidos son definidos por los mismos particpantes. [http://openspaceworld.org] (http://openspaceworld.org)
 
-* **Planificación de la iteración**: Reunión de **_Scrum_** en la cual el cliente define la meta de la iteración, el equipo selecciona de los requisitos más prioritarios que se compromete a completar y planifica las tareas. [http://www.proyectosagiles.org/planificacion-iteracion-sprint-planning] (http://www.proyectosagiles.org/planificacion-iteracion-sprint-planning)
+* **Planificación de iteración**: Reunión de **_Scrum_** en la cual el cliente define la meta de la iteración, el equipo selecciona de los requisitos más prioritarios que se compromete a completar y planifica las tareas. [http://www.proyectosagiles.org/planificacion-iteracion-sprint-planning] (http://www.proyectosagiles.org/planificacion-iteracion-sprint-planning)
 
 * **Planning Poker**: Planning Poker es una técnica para estimar ítems de un **_Backlog de Producto_** en forma relativa y en equipo. Se juega con un mazo de cartas plastificadas que permiten a los participantes elegir una unidad de estimación relativa y comprarla con el resto del equipo.
 [http://www.mountaingoatsoftware.com/agile/planning-poker] (http://www.mountaingoatsoftware.com/agile/planning-poker)
+
+* **Programación de a Pares**: La Programación de a Pares (o Pair Programming en inglés) requiere que dos programadores participen en un esfuerzo combinado de desarrollo en un sitio de trabajo. Cada miembro realiza una acción que el otro no está haciendo actualmente: Mientras que uno codifica las pruebas de unidades el otro piensa en la clase que satisfará la prueba, por ejemplo. [http://www.jamesshore.com/Agile-Book/pair_programming.html] (http://www.jamesshore.com/Agile-Book/pair_programming.html)
 
 * **Prueba de Aceptación**: **_XP_** indica que unas pruebas de aceptación deben ser definidas por el cliente para asegurar que la aplicación funciona correctamente. En general las pruebas de aceptación son pruebas de alto nivel de la aplicación, más orientadas a la operación real del negocio. Una funcionalidad es considerada terminada cuando todos los tests de aceptación correspondientes fueron ejecutados con éxito. 
 [http://www.jamesshore.com/Agile-Book/customer_tests.html] (http://www.jamesshore.com/Agile-Book/customer_tests.html)
 
 * **Retrospectiva**: Reunión de **_Scrum_** en que el equipo analiza cómo ha sido su manera de trabajar durante la iteración: qué cosas han funcionado bien, cuales hay que mejorar, qué ha aprendido. [http://www.proyectosagiles.org/retrospectiva-sprint-retrospective] (http://www.proyectosagiles.org/retrospectiva-sprint-retrospective)
 
-* **Revisión**: Reunión  de **_Scrum_** en que el equipo presenta en una demostración al cliente los requisitos completados en la iteración, en forma de incremento de producto preparado para ser entregado con el mínimo esfuerzo. [http://www.proyectosagiles.org/demostracion-requisitos-sprint-review] (http://www.proyectosagiles.org/demostracion-requisitos-sprint-review)
+* **Revisión**: Reunión  de **_Scrum_** en que el equipo presenta, en una demostración al cliente, los requisitos completados en la iteración, en forma de incremento de producto preparado para ser entregado con un mínimo esfuerzo restante. [http://www.proyectosagiles.org/demostracion-requisitos-sprint-review] (http://www.proyectosagiles.org/demostracion-requisitos-sprint-review)
 
-* **Reunión con formato daily**: ver **_Daily Meeting_**
-
-* **Scrum**: Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto. Estas prácticas se apoyan unas a otras y su selección tiene origen en un estudio de la manera de trabajar de equipos altamente productivos. [agileatlas.org/atlas/scrum](http://agileatlas.org/atlas/scrum)
+* **Scrum**: Scrum es un marco de trabajo en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto. Estas prácticas se apoyan unas a otras y su selección tiene origen en un estudio de la manera de trabajar de equipos altamente productivos. [agileatlas.org/atlas/scrum](http://agileatlas.org/atlas/scrum)
 
 * **Scrum Master**: El Scrum Master es un facilitador que vela por que se cumpla el proceso de **_Scrum_**, quita impedimentos, protege al equipo y facilita las reuniones para que tanto el equipo como el cliente colaboren y se obtengan las máximas sinergias. [http://www.proyectosagiles.org/facilitador-scrum-master] (http://www.proyectosagiles.org/facilitador-scrum-master)
 
@@ -57,14 +63,14 @@ equipo. El Kanban permite identificar atascos en el trabajo, mejorar los tiempos
 
 * **Sincronizacion Diaria**: ver **_Daily Meeting_**
 
+* **Sprint**: nombre de una iteración en **_Scrum_**
+
 * **Tablero de Tareas**: En **_Scrum_** o **_Kanban_**, se suele utilizar un Tablero de Tareas (que puede ser digital o fisico), en el cual se identifican las tareas comprometidas, sus estados y responsables. Suele ser accesible o muy visible, permitiendo a todos conocer el estado de avance y su actualización periodica. [http://www.proyectosagiles.org/ejemplo-tablero-pizarra-tareas-scrum-taskboard] (http://www.proyectosagiles.org/ejemplo-tablero-pizarra-tareas-scrum-taskboard)
 
 * **Tablero Kanban**: ver **_Tablero de Tareas_**
 
-* **TDD (Test-Driven Development)**: TDD es una técnica de programación que se centra en el hecho de escribir pruebas automatizadas de unidad antes de programar la funcionalidad, siguiendo el ciclo "falla, pasa, refactoriza" intentando así mejorar la calidad del software que producimos. [http://www.jamesshore.com/Agile-Book/test_driven_development.html] (http://www.jamesshore.com/Agile-Book/test_driven_development.html)
+* **Test-Driven Development (TDD)**: TDD es una técnica de programación que se centra en el hecho de escribir pruebas automatizadas de unidad antes de programar la funcionalidad, siguiendo el ciclo "falla, pasa, refactoriza" intentando así mejorar la calidad del software que producimos. [http://www.jamesshore.com/Agile-Book/test_driven_development.html] (http://www.jamesshore.com/Agile-Book/test_driven_development.html)
 
 * **Timebox**: período de tiempo de duración fija 
-
-* **Wiki**: Una Wiki (del hawaiano wiki wiki, «rápido») es un sitio web colaborativo que puede ser editado por varios usuarios. [http://www.wiki.org] (http://www.wiki.org)
 
 * **XP (Extreme Programming)**: Extreme Programming (XP) es una metodología de desarrollo ágil fundamentada en una serie de buenas prácticas y valores que tienen como objetivo el aumentar la productividad a la hora de desarrollar programas. Persigue la búsqueda de un desarrollo más sencillo, aplicando el sentido común. En todo momento, le da prioridad a los trabajos que disminuyen la burocracia que hay alrededor de la programación y a los trabajos que dan un resultado directo. [http://c2.com/cgi/wiki?ExtremeProgramming] (http://c2.com/cgi/wiki?ExtremeProgramming)
