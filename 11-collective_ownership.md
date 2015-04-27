@@ -27,7 +27,7 @@ Las primeras reacciones eran de risa por el carácter utópico e imposible de es
 Este primer paso nos dio pie para probar otro, y otro, y otros a medida que pasaban las iteraciones. Algunos pasos funcionaron muy mal y se abandonaron, otros funcionaron muy bien, pero siempre nos mantuvimos en movimiento con pequeños pasos todo el tiempo.
 Los principales experimentos que hicimos fueron:
 - CDC (Capacitación Despiadada Continua): espacio fijo de dos horas por semana donde un responsable de aplicación capacitaba a todo el equipo sobre un aspecto funcional o técnico de su aplicación
-- DCW (Documentación Cruzada en **_Wiki_**): armado de documentación funcional y técnica de una aplicación por desarrolladores ajenos a la aplicación (en **_Wiki_**)
+- DCW (Documentación Cruzada en Wiki): armado de documentación funcional y técnica de una aplicación por desarrolladores ajenos a la aplicación (en Wiki)
 - VDC (Visualización de la Dependencia de Conocimiento): durante la Planificación, destacar visualmente el nivel de confianza del equipo para resolver un requerimiento sin el responsable de la aplicación involucrada
 - OIE (Observación Interesada del Experto): un desarrollador observa y eventualmente documenta (en Wiki) el trabajo de un responsable de aplicación en la resolución de un incidente
 - RAI (Resolución Ajena de Incidente): un desarrollador resuelve un incidente de otra aplicación con coaching del responsable de aplicación
