@@ -26,4 +26,6 @@ Créditos
 
 **Arte de tapa**: Mauro Strione
 
+**Foto de tapa**: Pablo Tortorella
+
 **Idea y coordinación**: Nicolás Paez
