@@ -9,7 +9,7 @@ Retrospectivas, Equipo, Conflicto
 
 Contexto
 ------
-Luis era, ante todo, muy predecible. Sea cual sea el tema de discusión que abordaba el equipo, Luis iba a estar en contra de lo que opine la mayoría. Desde la herramienta de integración continua al horario de la retrospectiva, Luis parecía esperar a que el resto del grupo se ponga de acuerdo para estar, simplemente, en desacuerdo. Reunión a reunión la tensión se elevaba. Hasta que un día alguien se animó a hablar, por fin, sobre cómo se hablaba.
+Luis era, ante todo, muy predecible. Sea cual sea el tema de discusión que abordaba el equipo, Luis iba a estar en contra de lo que opine la mayoría. Desde la herramienta de **_integración continua_** al horario de la **_retrospectiva_**, Luis parecía esperar a que el resto del grupo se ponga de acuerdo para estar, simplemente, en desacuerdo. Reunión a reunión la tensión se elevaba. Hasta que un día alguien se animó a hablar, por fin, sobre cómo se hablaba.
 
 Desafio
 -----
