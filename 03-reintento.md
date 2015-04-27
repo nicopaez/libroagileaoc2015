@@ -51,7 +51,7 @@ Comparto algunos ejemplos de decisiones tomadas en el marco de estas sesiones:
 * Mantener un "Backlog de mejora", priorizado y estimado por los participantes de las reuniones.
 * Cada item del backlog está expresado como experimento o **_MVC (Minimal Viable Change)_**, concepto tomado del libro _"Lean Change Management: Innovative practices for managing organizational change"_, de Jason Little.
 * Realizar un experimento a la vez, lo que permite focalizarse y analizar los resultados claramente.
-* El equipo cuenta con una Bitácora que se actualiza con cada sesión de trabajo, sea interna o involucrando a los coaches ágiles.
+* El equipo cuenta con una bitácora que se actualiza con cada sesión de trabajo, sea interna o involucrando a los coaches ágiles.
 * Realizamos conjuntamente un análisis de la sostenibilidad de la transformación organizacional que estamos llevando adelante. De este análisis surgió, por ejemplo, la necesidad de definir, visibilizar y comunicar la visión de dicha transformación.
 * Utilizar las **_"Improvement Kata / Coaching Kata"_** (ambas descritas en el libro _"Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results: Managing People for Improvement, Adaptiveness and Superior Results"_, de Mike Rother) como guía de la mejora. La utilización de la Kata trajo orden, disciplina y llevó a que ciertos temas sean analizados más críticamente. Por ejemplo llevó a que varios temas tuvieran asociadas métricas, a las cuales se llegó luego de un trabajo de análisis detallado.
 
@@ -60,7 +60,7 @@ Conclusión
 Este caso me permite concluir que se puede crear un ambiente ágil luego de haber fracasado anteriormente en el intento.
 Comparto algunas de las claves que lo permitieron:
 * El director de la empresa es patrocinador de la iniciativa.
-* Todos los managers están comprometidos.
+* Todos los líderes (managers) están comprometidos.
 * Involucramos tempranamente a todos los impactados en la transformación. Escuchamos y respondimos sus inquietudes.
 * Nivelamos conocimientos para tener un lenguaje común a partir de talleres teórico-prácticos al inicio del proyecto de transformación.
 * Realizamos reuniones periódicas para ajustar oportunamente la transformación.
