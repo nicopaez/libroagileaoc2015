@@ -31,7 +31,7 @@ A pesar de ser ya por esa época una plataforma que no se estaba actualizando, l
 
 Con eso empezamos a aplicar **_TDD_** en las funcionalidades nuevas, e incluso a romper poco a poco dependencias en el código viejo que teníamos que modificar y agregarle pruebas también.
 
-Ya con más confianza y acostumbrados a historias de usuarios más pequeñas que favorecían commits frecuentes, el equipo se acostumbró a actualizar los cambios del resto todo el tiempo y ejecutar todas las pruebas del proyecto antes de cada cambio, para detectar rápidamente problemas de integración. Estaban listos para automatizar esta parte del trabajo.
+Ya con más confianza y acostumbrados a **_historias de usuarios_** más pequeñas que favorecían commits frecuentes, el equipo se acostumbró a actualizar los cambios del resto todo el tiempo y ejecutar todas las pruebas del proyecto antes de cada cambio, para detectar rápidamente problemas de integración. Estaban listos para automatizar esta parte del trabajo.
 
 Como no había un motor de **_integración continua_** que tuviese un soporte específico para VFP, propuse que escribiésemos uno, y aunque al principio les pareció una locura, aceptaron hacer la prueba. Estudiamos el API del repositorio que usaban y pronto encontramos lo que necesitábamos: cómo obtener el número del último commit, y cómo actualizar la copia local.
 
@@ -43,6 +43,6 @@ Cuando empezamos a tener muchos casos de pruebas unitarias que validaban lo mism
 Conclusión
 ---
 
-Muchos equipos, al adoptar prácticas ágiles, sienten que sus plataformas "anticuadas" no les permiten seguir las prácticas técnicas, pero esto es bastante fácil de salvar. Las herramientas básicas para pruebas unitarias, de aceptación, integración continua y demás, son -en su versión más básica- bastante sencillas. Una vez que entendemos la práctica, no es muy duro generar una primera versión, y con diferentes equipos, a partir de esa primer experiencia, pude lograr cosas parecidas en Cobol, Fortran, Clipper y otros entornos más raros.
+Muchos equipos, al adoptar prácticas ágiles, sienten que sus plataformas "anticuadas" no les permiten seguir las prácticas técnicas, pero esto es bastante fácil de salvar. Las herramientas básicas para pruebas unitarias, **_pruebas de aceptación_**, **_integración continua_** y demás, son -en su versión más básica- bastante sencillas. Una vez que entendemos la práctica, no es muy duro generar una primera versión, y con diferentes equipos, a partir de esa primer experiencia, pude lograr cosas parecidas en Cobol, Fortran, Clipper y otros entornos más raros.
 
 Por supuesto, la primer versión no será muy seductora, ni tendrá características sofisticadas, pero si cubre la expectativa básica, el valor que nos brinda rápidamente alienta a los equipos a mejorarlas, y ojalá, a compartirlas con la comunidad.
