@@ -1,16 +1,16 @@
-El próximo paso hacía el collective code ownership
+El próximo paso hacia el collective code ownership
 ===
 
 Por Thomas Wallet, @WalletThomas
 
 Tags
 ---
-collective code ownership, kaizen, pair programming, scrum
+collective code ownership, pair programming, scrum
 
 
 Contexto
 ---
-Un equipo de cinco desarrolladores, evolucionando y manteniendo seis aplicaciones de tipo administrativo para una corporación petrolera. Cada desarrollador con responsabilidad, conocimiento funcional y/o técnico sobre una o dos de las aplicaciones, y en un solo caso dos desarrolladores trabajando sobre la misma aplicación. 
+Un equipo de cinco desarrolladores, evolucionando y manteniendo seis aplicaciones de gestión administrativa para una corporación petrolera. Cada desarrollador con responsabilidad, conocimiento funcional y/o técnico sobre una o dos de las aplicaciones, y en un solo caso dos desarrolladores trabajando sobre la misma aplicación. 
 
 Desafíos
 ---
@@ -21,15 +21,14 @@ El camino a recorrer para revertir esta situación parecía imposible, demasiado
 
 Solución
 ---
-Se estaba empezando a implementar Scrum en el equipo. En las primeras iteraciones, las ceremonias de Planificación, Sincronización Diaria y Revisión parecían un poco forzadas por el poco involucramiento que tenía cada desarrollador en las aplicaciones que no eran de su responsabilidad. Las primeras retrospectivas (bien catárticas) dejaron claros los desafíos mencionados previamente, pero más claros aún los frenos, las dificultades y las excusas para no encarar el cambio. 
-En una de estas retrospectivas iniciales, en forma de ejercicio sarcástico y utópico, se construyó entre todos una visión de cómo funcionaría el equipo si todos pudieran mantener y evolucionar el código de cualquiera de las aplicaciones (Collective Code Ownership), e hicimos foco en los grandes beneficios que representaría para el cliente, el servicio, el equipo y las personas.
-Las primeras reacciones eran de risa por el carácter utópico e imposible de esta visión, pero hubo un gran "click" cuando el equipo acordó probar un próximo paso muy acotado que parecía alcanzable sin demasiado esfuerzo en un muy corto plazo (Kaizen). Este primer paso consistía en hacer programación de a pares (Pair Programming) entre el responsable de una aplicación y otro desarrollador que no la conocía para resolver un solo incidente durante la próxima iteración. Insistieron en abandonar el experimento si llevaba más de dos horas de esfuerzo. Se revisó con ojos bien críticos el resultado del experimento en la retrospectiva siguiente: no había sido particularmente bueno pero permitió un pequeño avance hacía la visión acordada.
+Se estaba empezando a implementar **_Scrum_** en el equipo. En las primeras iteraciones, las ceremonias de **_Planificación de iteración_**, **_Sincronización Diaria_** y **_Revisión_** parecían un poco forzadas por el poco involucramiento que tenía cada desarrollador en las aplicaciones que no eran de su responsabilidad. Las primeras **_retrospectivas_** (bien catárticas) dejaron claros los desafíos mencionados previamente, pero más claros aún los frenos, las dificultades y las excusas para no encarar el cambio. 
+En una de estas **_retrospectivas_** iniciales, en forma de ejercicio sarcástico y utópico, se construyó entre todos una visión de cómo funcionaría el equipo si todos pudieran mantener y evolucionar el código de cualquiera de las aplicaciones (concepto de Collective Code Ownership), e hicimos foco en los grandes beneficios que representaría para el cliente, el servicio, el equipo y las personas.
+Las primeras reacciones eran de risa por el carácter utópico e imposible de esta visión, pero hubo un gran "click" cuando el equipo acordó probar un próximo paso muy acotado que parecía alcanzable sin demasiado esfuerzo en un muy corto plazo. Este primer paso consistía en hacer programación de a pares (Pair Programming) entre el responsable de una aplicación y otro desarrollador que no la conocía para resolver un solo incidente durante la próxima iteración. Insistieron en abandonar el experimento si llevaba más de dos horas de esfuerzo. Se revisó con ojos bien críticos el resultado del experimento en la retrospectiva siguiente: no había sido particularmente bueno pero permitió un pequeño avance hacía la visión acordada.
 Este primer paso nos dio pie para probar otro, y otro, y otros a medida que pasaban las iteraciones. Algunos pasos funcionaron muy mal y se abandonaron, otros funcionaron muy bien, pero siempre nos mantuvimos en movimiento con pequeños pasos todo el tiempo.
 Los principales experimentos que hicimos fueron:
 - CDC (Capacitación Despiadada Continua): espacio fijo de dos horas por semana donde un responsable de aplicación capacitaba a todo el equipo sobre un aspecto funcional o técnico de su aplicación
-- DCW (Documentación Cruzada en Wiki): armado de documentación funcional y técnica de una aplicación por desarrolladores ajenos a la aplicación (en Wiki)
+- DCW (Documentación Cruzada en **_Wiki_**): armado de documentación funcional y técnica de una aplicación por desarrolladores ajenos a la aplicación (en **_Wiki_**)
 - VDC (Visualización de la Dependencia de Conocimiento): durante la Planificación, destacar visualmente el nivel de confianza del equipo para resolver un requerimiento sin el responsable de la aplicación involucrada
-
 - OIE (Observación Interesada del Experto): desarrollador observa y eventualmente documenta (en WIKI) el trabajo de un responsable de aplicación en la resolución de un incidente
 - RAI (Resolución Ajena de Incidente): un desarrollador resuelve un incidente de otra aplicación con coaching del responsable de aplicación
 - RAE (Requerimiento Auto-Escuela): elegir un requerimiento (Historia de Usuario) por iteración a resolver por dos desarrolladores ajenos, con coaching del responsable de aplicación
