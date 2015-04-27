@@ -41,9 +41,9 @@ El acuerdo tenía un alcance un año, donde los primeros 5 meses estaban destina
 Aproximadamente 2 semanas después de haber presentado la propuesta, el cliente confirmó que haría el proyecto con nosotros. Para mi satisfacción el equipo encargado de la ejecución estaba conformado por los mismos técnicos que habíamos realizado la estimación inicial. De esta forma, por parte de la empresa desarrollo los involucrados éramos:
 
 * Danilo: gerente de desarrollo y responsable comercial del proyecto
-* Ramiro: era el responsable de sistemas del cliente.
-* Nicolás (yo): líder técnico del equipo de desarrollo y facilitador del proyecto
-* Camilo y Roberto: dos técnicos del equipo de desarrollo
+* Nicolás (yo): líder técnico y facilitador del equipo
+* Carmelo y Roberto: dos técnicos experimentados
+* Manolo: un técnico con muy poca experiencia 
 
 Por parte de la empresa cliente los involucrados eran:
 
