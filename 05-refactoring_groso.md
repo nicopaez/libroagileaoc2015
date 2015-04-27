@@ -12,15 +12,16 @@ La aplicación Web estaba desarrollada en ASP.NET MVC. Desde el principio había
 
 Ese miércoles nos sentamos con Luis, luego de 3 o 4 años de desarrollo (yo como mentor del equipo). Un brillo inusual en sus ojos adelantaba que no era una reunión cualquiera.
 
-Nos dijo: muchachos, esta aplicación necesita Roles.
+Nos dijo: 
 
+- Muchachos, esta aplicación necesita Roles.
 - ¿Qué querés decir con Roles Luis?
 - No puede ser que tengamos que cargar a una misma empresa como cliente y como proveedor, quiero que una empresa pueda ser cliente y proveedor al mismo tiempo.
 - ¡Hmmm! Interesante...
 
 Desafío
 ---
-Cliente y Proveedor eran dos entidades distintas en el modelo y, lógicamente, dos tablas distintas en la base de datos. El software que llevaba años funcionando. Efectivamente muchos datos (los de cualquier empresa) estaban duplicados en las tablas y las entidades.
+Cliente y Proveedor eran dos entidades distintas en el modelo y, lógicamente, dos tablas distintas en la base de datos. El software llevaba años funcionando. Efectivamente muchos datos (los de cualquier empresa) estaban duplicados en las tablas y las entidades.
 
 Perfecto, pensamos, una entidad Empresa, una Cliente y una Proveedor pero, ¿cómo las relacionamos entre sí?
 
@@ -39,15 +40,15 @@ Solución
 ---
 El cambio implicaba modificar la estructura de la base de datos y la información contenida, por lo que decidimos encararlo en varias etapas pequeñas que pudieran ser completadas en menos de medio día (“ventana inestable”). Completadas significa que pudieran ser integradas a la rama principal del repositorio y subidos a producción (en caso de ser necesario).
 
-### Primer paso
+### Primer Paso
 Como primer paso definimos la clase abstracta Empresa (que no existía en el modelo anterior) que utilizaríamos como clase base de Proveedor y Cliente, que ya existían.
 Pasamos las propiedades y métodos comunes de esas dos entidades a la entidad Empresa. En la base de datos no fue necesario hacer ningún cambió puesto que utilizamos mapeo de herencia de NHibernate (table per concrete class).
 
 Fue un cambio rápido, no llevó más de dos horas en pequeños pasos de cinco minutos verificando que pasaban las más de mil pruebas.
 
-Todo fue a la rama principal y pasó sin problemas en el servidor de integración continua. Estábamos en condiciones de ir a producción.
+Todo fue a la rama principal y pasó sin problemas en el servidor de **_integración continua_**. Estábamos en condiciones de ir a producción.
 
-### Segundo paso
+### Segundo Paso
 Era hora de que enfrentáramos la separación de las tablas de la base de datos y de la información.
 
 El próximo paso pequeño era separar las tablas dejando tal cual las entidades (Empresa, Cliente y Proveedor).
