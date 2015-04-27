@@ -1,4 +1,4 @@
-¡Siempre la mitad vacía del vaso, Luis!
+El dificultador
 ====
 
 Por Alan Cyment, @acyment
