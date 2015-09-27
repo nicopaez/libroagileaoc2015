@@ -27,9 +27,9 @@ Perfecto, pensamos, una entidad Empresa, una Cliente y una Proveedor pero, ¿có
 
 Luis nos había dado una pista: Roles.
 
-En primer lugar evaluamos la herencia, atractiva a primera vista, puesto que todo Cliente es una Empresa, lo mismo que el Proveedor. Serviría para reutilizar lógica pero rápidamente encontraríamos como la reutilización basada en herencia se queda corta respecto de la reutilización basada en composición.
+En primer lugar evaluamos la herencia para modelar la relación, atractiva a primera vista, puesto que todo Cliente es una Empresa, lo mismo que el Proveedor. Serviría para reutilizar lógica pero rápidamente encontraríamos como la reutilización basada en herencia se queda corta respecto de la reutilización basada en composición.
 
-Por otro lado, esa solución no nos resolvería la carga doble de datos de una empresa que fuese cliente y proveedor a la vez, porque la herencia es solo estructural, a nivel de clases.
+Por otro lado, esa solución no resolvería la carga doble de datos de una empresa que fuese cliente y proveedor a la vez, porque la herencia es solo estructural, a nivel de clases.
 
 La solución basada en roles es distinta. Tenemos una entidad autónoma llamada Empresa y otras dos, separadas, que modelan el rol que esa empresa representa en otro contexto, en este caso, el rol Cliente y el rol Proveedor y esos roles se “adjuntan” a una Empresa que deba desempeñarlo.
 
@@ -39,6 +39,7 @@ El desafío era como pasar desde dos entidades/tablas monolíticas no relacionad
 Solución
 ---
 El cambio implicaba modificar la estructura de la base de datos y la información contenida, por lo que decidimos encararlo en varias etapas pequeñas que pudieran ser completadas en menos de medio día (“ventana inestable”). Completadas significa que pudieran ser integradas a la rama principal del repositorio y subidos a producción (en caso de ser necesario).
+Verán que en el primer paso del refactoring utilizamos herencia pero cuando lleguemos al cuarto paso descartamos esta relación para utilizar composición.
 
 ### Primer Paso
 Como primer paso definimos la clase abstracta Empresa (que no existía en el modelo anterior) que utilizaríamos como clase base de Proveedor y Cliente, que ya existían.
