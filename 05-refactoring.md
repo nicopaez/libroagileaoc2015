@@ -1,4 +1,4 @@
-Refactoring de alto impacto 
+Refactoring de alto impacto
 ===
 Por Carlos Peix, @carlospeix
 
@@ -12,7 +12,7 @@ La aplicación Web estaba desarrollada en ASP.NET MVC. Desde el principio había
 
 Ese miércoles nos sentamos con Luis, luego de 3 o 4 años de desarrollo (yo como mentor del equipo). Un brillo inusual en sus ojos adelantaba que no era una reunión cualquiera.
 
-Nos dijo: 
+Nos dijo:
 
 - Muchachos, esta aplicación necesita Roles.
 - ¿Qué querés decir con Roles Luis?
@@ -42,7 +42,7 @@ El cambio implicaba modificar la estructura de la base de datos y la informació
 
 ### Primer Paso
 Como primer paso definimos la clase abstracta Empresa (que no existía en el modelo anterior) que utilizaríamos como clase base de Proveedor y Cliente, que ya existían.
-Pasamos las propiedades y métodos comunes de esas dos entidades a la entidad Empresa. En la base de datos no fue necesario hacer ningún cambió puesto que utilizamos mapeo de herencia de NHibernate (table per concrete class).
+Pasamos las propiedades y métodos comunes de esas dos entidades a la entidad Empresa. En la base de datos no fue necesario hacer ningún cambio puesto que utilizamos mapeo de herencia de NHibernate (table per concrete class).
 
 Fue un cambio rápido, no llevó más de dos horas en pequeños pasos de cinco minutos verificando que pasaban las más de mil pruebas.
 
@@ -51,7 +51,7 @@ Todo fue a la rama principal y pasó sin problemas en el servidor de **_integrac
 ### Segundo Paso
 Era hora de que enfrentáramos la separación de las tablas de la base de datos y de la información.
 
-El próximo paso pequeño era separar las tablas dejando tal cual las entidades (Empresa, Cliente y Proveedor).
+El próximo pequeño paso era separar las tablas dejando tal cual las entidades (Empresa, Cliente y Proveedor).
 
 Generamos una migración de base de datos (el proyecto ya usaba Fluent Migrator) para hacer lo siguiente:
 
@@ -69,7 +69,7 @@ Este cambio, aunque pequeño, era complejo puesto que incluía cambios en la bas
 
 De nuevo pasó sin problemas en el servidor de **_integración continua_**. Estaba en condiciones de ir a producción.
 
-### Tercer Paso 
+### Tercer Paso
 En los pasos anteriores solo hicimos cambios de “infraestructura”, no tocamos sensiblemente el modelo y, por lo tanto, aún no estábamos en condiciones de satisfacer el pedido de Luis.
 
 Decidimos dar un paso pequeño, para variar. En todos los lugares en los que fuese posible usar el tipo Empresa en lugar de Proveedor o Cliente reemplazamos el tipo de la variable.
