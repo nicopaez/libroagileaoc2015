@@ -8,11 +8,11 @@ diseño de producto, customer development
 
 Contexto
 ------
-Buongiorno iba a ser el primer producto de Voiceinsoft en casi una década. Alta expectativa, alto optimismo, alta inversión. Todo se hizo a la perfección: oficina exclusiva para un equipo de excelencia, espíritu colaborativo, código de calidad, pruebas de usabilidad con usuarios potenciales y total apoyo organizacional. 
+Buongiorno iba a ser el primer producto de Voiceinsoft en casi una década. Alta expectativa, alto optimismo, alta inversión. Todo se hizo a la perfección: oficina exclusiva para un equipo de excelencia, espíritu colaborativo, código de calidad, pruebas de usabilidad con usuarios potenciales y total apoyo organizacional.
 
 Desafío
 ---
-Una organización sin experiencia en productos masivos, temerosa de causar una mala primer impresión pospone ad infinitum la salida al mercado de un producto sólido y carece de impulso para adaptarse a un mal comienzo.
+Una organización sin experiencia en productos masivos, temerosa de causar una mala primera impresión pospone ad infinitum la salida al mercado de un producto sólido y carece de impulso para adaptarse a un mal comienzo.
 
 Solución
 ---
