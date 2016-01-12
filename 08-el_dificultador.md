@@ -11,7 +11,7 @@ Contexto
 ------
 Luis era, ante todo, muy predecible. Sea cual sea el tema de discusión que abordaba el equipo, Luis iba a estar en contra de lo que opine la mayoría. Desde la herramienta de **_integración continua_** al horario de la **_retrospectiva_**, Luis parecía esperar a que el resto del grupo se ponga de acuerdo para estar, simplemente, en desacuerdo. Reunión a reunión la tensión se elevaba. Hasta que un día alguien se animó a hablar, por fin, sobre cómo se hablaba.
 
-Desafio
+Desafío
 -----
 El conflicto latente no puede sino aumentar cuando el grupo intenta esquivarlo. Un miembro descontento que no logra articular sus razones contagia y multiplica la tensión hasta tanto el equipo no logre descubrir y transitar el conflicto.
 
