@@ -8,12 +8,12 @@ El libro se encuentra publicado en la plataforma GitBook en [http://nicopaez.git
 Como participar
 ---
 
-El algunas convenciones para una sana convivencia:
+Algunas convenciones para una sana convivencia:
 
 * Escribir usando sintaxis Markdown
 * Cada caso es un capítulo aparte
-* Cada caso/capítulo consiste en un único archivo nombrado se acuerdo a la siguiente convención: _<número_de_capítulo>-<nombre_descriptivo>.md_
-* El número se capítulo se asigna en orden de llegada
+* Cada caso/capítulo consiste en un único archivo nombrado de acuerdo a la siguiente convención: _<número_de_capítulo>-<nombre_descriptivo>.md_
+* El número de capítulo se asigna en orden de llegada
 
 Cada capítulo debería respetar la siguiente estructura:
 
