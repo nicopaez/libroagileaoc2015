@@ -27,11 +27,11 @@ Glosario
 
 * **Impact Mapping**: Impact mapping es una técnica de planificación estratégica que ayuda a las organizaciones a evitar perder dirección durante la construcción y entrega de productos, comunicando claramente los supuestos, ayudando a los equipos a alinear sus actividades con los objetivos estrategicos y tomar mejores decisiones en el camino. [http://impactmapping.org](http://impactmapping.org)
 
-* **Improvement Kata / Coaching Kata**: La Improvement Kata es una rutina de cuatro pasos para moverse desde la situación actual hacia una nueva situación en forma creativa, directa y con sentido: 1. Entender el desafio, 2. Captar la condición actual, 3. Establecer la proxima condición objetivo, 4. Experimentar hacia la condición objetivo. La Coaching Kata es una practica rutinaria para enseñar la Improvement Kata. [http://www-personal.umich.edu/~mrother/Homepage.html](http://www-personal.umich.edu/~mrother/Homepage.html)
+* **Improvement Kata / Coaching Kata**: La Improvement Kata es una rutina de cuatro pasos para moverse desde la situación actual hacia una nueva situación en forma creativa, directa y con sentido: 1. Entender el desafío, 2. Captar la condición actual, 3. Establecer la próxima condición objetivo, 4. Experimentar hacia la condición objetivo. La Coaching Kata es una práctica rutinaria para enseñar la Improvement Kata. [http://www-personal.umich.edu/~mrother/Homepage.html](http://www-personal.umich.edu/~mrother/Homepage.html)
 
 * **Integración Continua**: La integración continua es una práctica de **_XP_** cuyo objetivo es lograr que todos los cambios al código fuente sean integrados en una base común de código por lo menos diariamente, y que sean ejecutados todos los tests automáticos existentes antes y después de la integración. [http://www.martinfowler.com/articles/continuousIntegration.html](http://www.martinfowler.com/articles/continuousIntegration.html)
 
-* **Juego de la Planificación**: El Juego de la Planificación es una práctica de **_XP_** donde clientes y desarrolladores se juntan para identificar, estimar y priorizar **_Historias de Usuario_** de tal manera que se maximice el valor y se minimicen los costos. El objetivo es llegar a una simple lista priorizada. 
+* **Juego de la Planificación**: El Juego de la Planificación es una práctica de **_XP_** donde clientes y desarrolladores se juntan para identificar, estimar y priorizar **_Historias de Usuario_** de tal manera que se maximice el valor y se minimicen los costos. El objetivo es llegar a una simple lista priorizada.
 [http://www.jamesshore.com/Agile-Book/the_planning_game.html](http://www.jamesshore.com/Agile-Book/the_planning_game.html)
 
 * **Kanban**: Kanban es una metodología de producción u organización del trabajo que se basa en señales visuales para gestionar el esfuerzo y dedicación del
@@ -39,16 +39,16 @@ equipo. El Kanban permite identificar atascos en el trabajo, mejorar los tiempos
 
 * **MVC (Minimal Viable Change)**: el MVC es el cambio más reducido posible capaz de proveer un aprendizaje validado sobre el impacto de una transformación del comportamiento de los  miembros de una organización. [http://agileconsulting.blogspot.com.ar/2013/08/refining-change-canvas-to-represent.html](http://agileconsulting.blogspot.com.ar/2013/08/refining-change-canvas-to-represent.html)
 
-* **Open Space**: el Open Space es una técnica para facilitar reuniones largas (por ejemplo de 1 día) auto-organizadas para grandes grupos (con la ayuda en la apertura, sostenimiento y cierre de una persona externa que actúa como facilitadora). La agenda y sus contenidos son definidos por los mismos particpantes. [http://openspaceworld.org](http://openspaceworld.org)
+* **Open Space**: el Open Space es una técnica para facilitar reuniones largas (por ejemplo de 1 día) auto-organizadas para grandes grupos (con la ayuda en la apertura, sostenimiento y cierre de una persona externa que actúa como facilitadora). La agenda y sus contenidos son definidos por los mismos participantes. [http://openspaceworld.org](http://openspaceworld.org)
 
 * **Planificación de iteración**: Reunión de **_Scrum_** en la cual el cliente define la meta de la iteración, el equipo selecciona de los requisitos más prioritarios que se compromete a completar y planifica las tareas. [http://www.proyectosagiles.org/planificacion-iteracion-sprint-planning](http://www.proyectosagiles.org/planificacion-iteracion-sprint-planning)
 
-* **Planning Poker**: Planning Poker es una técnica para estimar ítems de un **_Backlog de Producto_** en forma relativa y en equipo. Se juega con un mazo de cartas plastificadas que permiten a los participantes elegir una unidad de estimación relativa y comprarla con el resto del equipo.
+* **Planning Poker**: Planning Poker es una técnica para estimar ítems de un **_Backlog de Producto_** en forma relativa y en equipo. Se juega con un mazo de cartas plastificadas que permiten a los participantes elegir una unidad de estimación relativa y compararla con el resto del equipo.
 [http://www.mountaingoatsoftware.com/agile/planning-poker](http://www.mountaingoatsoftware.com/agile/planning-poker)
 
 * **Programación de a Pares**: La Programación de a Pares (o Pair Programming en inglés) requiere que dos programadores participen en un esfuerzo combinado de desarrollo en un sitio de trabajo. Cada miembro realiza una acción que el otro no está haciendo actualmente: Mientras que uno codifica las pruebas de unidades el otro piensa en la clase que satisfará la prueba, por ejemplo. [http://www.jamesshore.com/Agile-Book/pair_programming.html](http://www.jamesshore.com/Agile-Book/pair_programming.html)
 
-* **Prueba de Aceptación**: **_XP_** indica que unas pruebas de aceptación deben ser definidas por el cliente para asegurar que la aplicación funciona correctamente. En general las pruebas de aceptación son pruebas de alto nivel de la aplicación, más orientadas a la operación real del negocio. Una funcionalidad es considerada terminada cuando todos los tests de aceptación correspondientes fueron ejecutados con éxito. 
+* **Prueba de Aceptación**: **_XP_** indica que unas pruebas de aceptación deben ser definidas por el cliente para asegurar que la aplicación funciona correctamente. En general las pruebas de aceptación son pruebas de alto nivel de la aplicación, más orientadas a la operación real del negocio. Una funcionalidad es considerada terminada cuando todos los tests de aceptación correspondientes fueron ejecutados con éxito.
 [http://www.jamesshore.com/Agile-Book/customer_tests.html](http://www.jamesshore.com/Agile-Book/customer_tests.html)
 
 * **Retrospectiva**: Reunión de **_Scrum_** en que el equipo analiza cómo ha sido su manera de trabajar durante la iteración: qué cosas han funcionado bien, cuales hay que mejorar, qué ha aprendido. [http://www.proyectosagiles.org/retrospectiva-sprint-retrospective](http://www.proyectosagiles.org/retrospectiva-sprint-retrospective)
@@ -65,12 +65,12 @@ equipo. El Kanban permite identificar atascos en el trabajo, mejorar los tiempos
 
 * **Sprint**: nombre de una iteración en **_Scrum_**
 
-* **Tablero de Tareas**: En **_Scrum_** o **_Kanban_**, se suele utilizar un Tablero de Tareas (que puede ser digital o fisico), en el cual se identifican las tareas comprometidas, sus estados y responsables. Suele ser accesible o muy visible, permitiendo a todos conocer el estado de avance y su actualización periodica. [http://www.proyectosagiles.org/ejemplo-tablero-pizarra-tareas-scrum-taskboard](http://www.proyectosagiles.org/ejemplo-tablero-pizarra-tareas-scrum-taskboard)
+* **Tablero de Tareas**: En **_Scrum_** o **_Kanban_**, se suele utilizar un Tablero de Tareas (que puede ser digital o fisico), en el cual se identifican las tareas comprometidas, sus estados y responsables. Suele ser accesible o muy visible, permitiendo a todos conocer el estado de avance y su actualización periódica. [http://www.proyectosagiles.org/ejemplo-tablero-pizarra-tareas-scrum-taskboard](http://www.proyectosagiles.org/ejemplo-tablero-pizarra-tareas-scrum-taskboard)
 
 * **Tablero Kanban**: ver **_Tablero de Tareas_**
 
 * **Test-Driven Development (TDD)**: TDD es una técnica de programación que se centra en el hecho de escribir pruebas automatizadas de unidad antes de programar la funcionalidad, siguiendo el ciclo "falla, pasa, refactoriza" intentando así mejorar la calidad del software que producimos. [http://www.jamesshore.com/Agile-Book/test_driven_development.html](http://www.jamesshore.com/Agile-Book/test_driven_development.html)
 
-* **Timebox**: período de tiempo de duración fija 
+* **Timebox**: período de tiempo de duración fija
 
 * **XP (Extreme Programming)**: Extreme Programming (XP) es una metodología de desarrollo ágil fundamentada en una serie de buenas prácticas y valores que tienen como objetivo el aumentar la productividad a la hora de desarrollar programas. Persigue la búsqueda de un desarrollo más sencillo, aplicando el sentido común. En todo momento, le da prioridad a los trabajos que disminuyen la burocracia que hay alrededor de la programación y a los trabajos que dan un resultado directo. [http://c2.com/cgi/wiki?ExtremeProgramming](http://c2.com/cgi/wiki?ExtremeProgramming)
