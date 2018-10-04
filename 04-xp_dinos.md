@@ -19,7 +19,6 @@ La posibilidad de moverse a otro lenguaje o plataforma estaba fuera de discusió
 
 Desafío
 --
-
 Dada la plataforma en que trabajaban, y que su producto había iniciado en FoxPro para DOS, que no era siquiera orientado a objetos, tenían mucho código "heredado" que era muy poco flexible, propenso a errores, y acarreaban prácticas de desarrollo _cowboy_ que reconocían como problemáticas.
 
 Como me conocían, me pidieron que les explicara los principios y prácticas de **_XP_**. El **_Juego de Planificación_** y la comunicación permanente con el cliente les parecía bien y los adoptaron gradualmente pero sin titubeos. Al llegar a las prácticas técnicas más específicas, como **_TDD_**, **_Pruebas de Aceptación_** e **_Integración Contínua_** sintieron que por la plataforma en que trabajaban todo ese mundo les estaba vedado.
@@ -37,7 +36,7 @@ Como no había un motor de **_integración continua_** que tuviese un soporte es
 
 Escribimos un servicio que verificaba si había un commit nuevo cada cierto intervalo, y en ese caso actualizaba su copia local y a continuación ejecutaba las pruebas de FoxUnit (que tuvimos que retocar para poder ejecutarlas _silenciosamente_).
 
-Cuando empezamos a tener muchos casos de pruebas unitarias que validaban lo mismo con diferentes series de parámetros, noté que eran casos ideales para **_Fit_**. Obviamente, **_Fit_** no soporta VFP en forma nativa, así que... escribimos el nuestro. Atacamos primero las pruebas tabulares, que reciben una matriz en las que las columnas son los diferentes parámetros de entrada y los valores de salida correspondientes; las filas son los diferentes escenarios a probar. Esto habilitó trabajar con los usuarios directamente, suministrando series de valores para probar. Más tarde imlementamos otro tipo de pruebas que **_Fit_** soporta.
+Cuando empezamos a tener muchos casos de pruebas unitarias que validaban lo mismo con diferentes series de parámetros, noté que eran casos ideales para **_Fit_**. Obviamente, **_Fit_** no soporta VFP en forma nativa, así que... escribimos el nuestro. Atacamos primero las pruebas tabulares, que reciben una matriz en las que las columnas son los diferentes parámetros de entrada y los valores de salida correspondientes; las filas son los diferentes escenarios a probar. Esto habilitó trabajar con los usuarios directamente, suministrando series de valores para probar. Más tarde implementamos otro tipo de pruebas que **_Fit_** soporta.
 
 
 Conclusión

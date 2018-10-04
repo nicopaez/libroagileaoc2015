@@ -8,7 +8,7 @@ scrum, adaptación iterativa
 
 Contexto
 ---
-Yo era parte de un equipo de desarrollo en el que me desempeñaba como analista programadora desde hacía 2 años. Este equipo estaba a cargo del mantenimiento evolutivo de la aplicación más antigua de su organización. 
+Yo era parte de un equipo de desarrollo en el que me desempeñaba como analista programadora desde hacía 2 años. Este equipo estaba a cargo del mantenimiento evolutivo de la aplicación más antigua de su organización.
 
 
 Desafío
@@ -33,11 +33,11 @@ Durante la **_retrospectiva_** escribíamos otra minuta de reunión que tampoco 
 Dado que parte de nuestro trabajo consistía en dar soporte al sistema productivo nuestro **_backlog de trabajo_** solía recibir ítems no planificados como consecuencia de incidentes urgentes aparecidos en el ambiente productivo. El atender estos incidentes impedía que completáramos todas las tareas comprometidas para el **_sprint_**.
 Para manejar estas situaciones comenzamos a asignar puntos a los incidentes urgentes a medida que surgían, esto nos permitía justificar con evidencia las tareas no resueltas al final de la iteración. Al mismo tiempo comenzamos a dejar cierto margen en la **_planificación de la iteración_** para la atención de incidentes urgentes surgidos en el ambiente productivo.
 
-Para tener siempre presente el estado de nuestro **_sprint_** implementamos un **_tablero de tareas_** visual dividido por franjas verticales de colores diferentes para diferenciar los estados de las tareas: pendiente, en proceso, resuelto por desarrollo, en test y para producción. 
+Para tener siempre presente el estado de nuestro **_sprint_** implementamos un **_tablero de tareas_** visual dividido por franjas verticales de colores diferentes para diferenciar los estados de las tareas: pendiente, en proceso, resuelto por desarrollo, en test y para producción.
 
 También realizamos divisiones horizontales en el tablero para los distintos tipos de tareas: tareas planificadas desde un comienzo para el **_sprint_** e incidentes urgentes de producción.
 
 Conclusión
 ---
-Cuando uno adopta una metodología ágil tiene que tomar en cuenta de hacerlo en forma iterativa, incluyendo en la primera iteración sólo las prácticas que no pueden ser aplazadas, e ir refinando las prácticas que nos sirven con el avance de las iteraciones.  Si nos proponemos aplicar todo de golpe podemos frustrarnos y abandonar al poco tiempo, ya que es probable que las cosas no salgan tan bien como las habíamos planeamos.
+Cuando uno adopta una metodología ágil tiene que tomar en cuenta de hacerlo en forma iterativa, incluyendo en la primera iteración sólo las prácticas que no pueden ser aplazadas, e ir refinando las prácticas que nos sirven con el avance de las iteraciones.  Si nos proponemos aplicar todo de golpe podemos frustrarnos y abandonar al poco tiempo, ya que es probable que las cosas no salgan tan bien como las habíamos planeado.
 Lo importante de destacar en esta situación es que se puede adaptar la metodología gradualmente, mejorando incluso aquellas situaciones que no pueden resolverse completamente. Esto se logra manteniendo al equipo enfocado en porqué se necesita hacer el cambio y con la participación de todos los miembros.
